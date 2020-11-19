@@ -1,3 +1,3 @@
 # test-github-pages
 
-This is our README
+This is our README.
